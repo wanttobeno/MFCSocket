@@ -4,7 +4,7 @@
 看到这个文章的 [基于MFC平台实现SOCKET通信](https://blog.csdn.net/qq_42034052/article/details/82628045)
 ,觉得不错。
 
-但是代码不完整，于是发现时间实现全部代码。
+但是代码不完整，于是发了点时间实现全部代码。
 
 
 ##### 实现功能
@@ -24,15 +24,15 @@
 
 ##### 效果图
 
-![snap1.png](img/snap1.png)
+![snap1.png](./img/snap1.png)
 
 
-![snap2.png](img/snap2.png)
+![snap2.png](./img/snap2.png)
 
-![snap3.png](img/snap3.png)
+![snap3.png](./img/snap3.png)
 
 
-##### 协议
+##### 简单的文本协议
 
 
 ```
